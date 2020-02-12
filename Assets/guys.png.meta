@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: deab74488d33b7548894db5b76bee0d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1409767701698785944
+    second: guys_0
+  - first:
+      213: -8144265326768373303
+    second: guys_1
+  - first:
+      213: 5909488545497782918
+    second: guys_2
+  - first:
+      213: 5762614842944802459
+    second: guys_3
+  - first:
+      213: -7109123813176389297
+    second: guys_4
+  - first:
+      213: -3918155008727933964
+    second: guys_5
+  - first:
+      213: -8478124508860851319
+    second: guys_6
+  - first:
+      213: 3238669490293504495
+    second: guys_7
+  - first:
+      213: -4949645044820597290
+    second: guys_8
+  - first:
+      213: -8470014920877134881
+    second: guys_9
+  - first:
+      213: 3995515087905937845
+    second: guys_10
+  - first:
+      213: -1815090009448712037
+    second: guys_11
+  - first:
+      213: -2532672846098978161
+    second: guys_12
+  - first:
+      213: 779780218681188117
+    second: guys_13
+  - first:
+      213: 302843141586244711
+    second: guys_14
+  - first:
+      213: -2931648685012373022
+    second: guys_15
+  - first:
+      213: 5304810906188230843
+    second: guys_16
+  - first:
+      213: 2887967915828628413
+    second: guys_17
+  - first:
+      213: -692578231163942504
+    second: guys_18
+  - first:
+      213: 3477778162910115819
+    second: guys_19
+  - first:
+      213: -8995903630963659073
+    second: guys_20
+  - first:
+      213: -217472387665401786
+    second: guys_21
+  - first:
+      213: -3104427373878268466
+    second: guys_22
+  - first:
+      213: 475076401735946996
+    second: guys_23
+  - first:
+      213: 7662208798997103069
+    second: guys_24
+  - first:
+      213: 4182218821292965837
+    second: guys_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guys_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 195
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6d2fdaae3e4a45bb46823e5d47f7b
+      internalID: 1409767701698785944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 194
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a92c5a06f8495a4b9e68b3d8950e5bb
+      internalID: -8144265326768373303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c443cb505acf14a8ee34734d847150
+      internalID: 5909488545497782918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe9443dc9bb8a45a70fe1c52742e07
+      internalID: 5762614842944802459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 195
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5b63318e8524419d2f67f095cf2b9
+      internalID: -7109123813176389297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 194
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49487fc21634f5249a93f55ea9898031
+      internalID: -3918155008727933964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171cb3cb228fc4a45ae0c0690eef693d
+      internalID: -8478124508860851319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 197
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7595be917b49904cb31eb241f86172e
+      internalID: 3238669490293504495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d22806bb6baf5488d410a9471258ab
+      internalID: -4949645044820597290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056adc15ef275674d96081bc81a7f864
+      internalID: -8470014920877134881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765fcd4262dc634e92e155586729f48
+      internalID: 3995515087905937845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 130
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ff0bc56933cd4dba5bb64b0640c19
+      internalID: -1815090009448712037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e538b26ec9e04599ddf314d976ff5
+      internalID: -2532672846098978161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6467eb38c6e1488b81e383ad8df77
+      internalID: 779780218681188117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aaeafac9abf694cbdfed5cb8e2bdf6
+      internalID: 302843141586244711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7988108ba24b34dad35a24a29b2b5f
+      internalID: -2931648685012373022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 69
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2f1a30d093cc4a99850703a795d73
+      internalID: 5304810906188230843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 67
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c136bbe25bf043b2da3e34686baec
+      internalID: 2887967915828628413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c17330e01e0c44badd8a24d749f2c
+      internalID: -692578231163942504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 66
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deebd4da90ac20439e8930a53079761
+      internalID: 3477778162910115819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 69
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243ab30dd66d5f4695f4cd20d7c13f2
+      internalID: -8995903630963659073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9bc31038dac904eb42457c92a9eb63
+      internalID: -217472387665401786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d542eab5ed274a86306ab0f5bafd5
+      internalID: -3104427373878268466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aac4730e3d5044c9fc6117d48528bc
+      internalID: 475076401735946996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d984fdf4883a0a469ee0a60cf443beb
+      internalID: 7662208798997103069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guys_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0527431571821438f0a62c5441983e
+      internalID: 4182218821292965837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
